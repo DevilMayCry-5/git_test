@@ -1,0 +1,2 @@
+git is a distributed vcs that takes snapshopt of files
+to track changes of that file.
